@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SF-Felling7/react-app#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "webpack": "^3.5.3"
   }
 }
